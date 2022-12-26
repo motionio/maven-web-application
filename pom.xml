@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.1-SNAPSHOT</version> 
+	<version>0.0.2-SNAPSHOT</version> 
 	
 	<name>maven-web-application</name>
 
@@ -94,14 +94,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.38.70:8187/motionio/repository/tesla-webapp-releases/</url>
+	      <name>motionio Releases Nexus Repository</name>
+	      <url>http://18.133.227.4:8187/motionio/repository/tesla-webapp-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.38.70:8187/motionio/repository/tesla-webapp-snapshot/</url>
+	      <name>motionio Snapshot Nexus Repository</name>
+	      <url>http://18.133.227.4:8187/motionio/repository/tesla-webapp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
