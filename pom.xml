@@ -95,19 +95,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.38.70:8187/motionio/repository/tesla-webapp-releases/</url>
+	      <url>http://172.31.38.70:8187/motionio/repository/Amazonapp15-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-	      <url>http://172.31.38.70.4:8187/motionio/repository/tesla-webapp-snapshot/</url>
+	      <url>http://172.31.38.70:8187/motionio/repository/Amazonapp15-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>Amazonapp15</finalName>
 		
 		<plugins>
 			<plugin>
