@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Tesla Web application Project30 automation.</h1>
-<h1 align="center">We develop support, and provides quality Software Solutions to millions of clients globally.
+<h1 align="center">We develop support, and provide quality Software Solutions to millions of clients globally.
 	           We are raising millionaires in IT automation.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
